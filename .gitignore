@@ -1,0 +1,8 @@
+# build output files
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+# ide specific files
+.vscode/
